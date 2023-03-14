@@ -1,0 +1,1204 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="Page10_row_1_column_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page10_row-1-column-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page10_row_1_column_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page10_row-1-column-2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page10_row_1_column_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page10_row-1-column-3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page10_row_2_column_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page10_row-2-column-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page10_row_2_column_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page10_row-2-column-2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page10_row_2_column_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page10_row-2-column-3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page10_row_3_column_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page10_row-3-column-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page10_row_3_column_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page10_row-3-column-2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page10_row_3_column_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page10_row-3-column-3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page11_row_1_column_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page11_row-1-column-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page11_row_1_column_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page11_row-1-column-2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page11_row_1_column_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page11_row-1-column-3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page11_row_2_column_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page11_row-2-column-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page11_row_2_column_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page11_row-2-column-2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page11_row_2_column_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page11_row-2-column-3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page11_row_3_column_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page11_row-3-column-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page11_row_3_column_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page11_row-3-column-2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page11_row_3_column_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page11_row-3-column-3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page12_row_1_column_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page12_row-1-column-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page12_row_1_column_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page12_row-1-column-2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page12_row_1_column_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page12_row-1-column-3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page12_row_2_column_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page12_row-2-column-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page12_row_2_column_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page12_row-2-column-2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page12_row_2_column_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page12_row-2-column-3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page12_row_3_column_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page12_row-3-column-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page12_row_3_column_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page12_row-3-column-2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page12_row_3_column_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page12_row-3-column-3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page13_row_1_column_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page13_row-1-column-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page13_row_1_column_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page13_row-1-column-2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page13_row_1_column_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page13_row-1-column-3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page13_row_2_column_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page13_row-2-column-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page13_row_2_column_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page13_row-2-column-2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page13_row_2_column_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page13_row-2-column-3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page13_row_3_column_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page13_row-3-column-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page13_row_3_column_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page13_row-3-column-2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page13_row_3_column_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page13_row-3-column-3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page14_row_1_column_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page14_row-1-column-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page14_row_1_column_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page14_row-1-column-2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page14_row_1_column_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page14_row-1-column-3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page14_row_2_column_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page14_row-2-column-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page14_row_2_column_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page14_row-2-column-2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page14_row_2_column_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page14_row-2-column-3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page14_row_3_column_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page14_row-3-column-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page14_row_3_column_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page14_row-3-column-2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page14_row_3_column_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page14_row-3-column-3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page15_row_1_column_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page15_row-1-column-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page15_row_1_column_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page15_row-1-column-2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page15_row_1_column_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page15_row-1-column-3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page15_row_2_column_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page15_row-2-column-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page15_row_2_column_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page15_row-2-column-2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page15_row_2_column_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page15_row-2-column-3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page15_row_3_column_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page15_row-3-column-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page15_row_3_column_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page15_row-3-column-2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page15_row_3_column_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page15_row-3-column-3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page16_row_1_column_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page16_row-1-column-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page16_row_1_column_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page16_row-1-column-2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page16_row_1_column_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page16_row-1-column-3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page16_row_2_column_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page16_row-2-column-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page16_row_2_column_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page16_row-2-column-2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page16_row_2_column_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page16_row-2-column-3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page16_row_3_column_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page16_row-3-column-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page16_row_3_column_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page16_row-3-column-2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page16_row_3_column_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page16_row-3-column-3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page17_row_1_column_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page17_row-1-column-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page17_row_1_column_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page17_row-1-column-2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page17_row_1_column_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page17_row-1-column-3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page17_row_2_column_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page17_row-2-column-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page17_row_2_column_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page17_row-2-column-2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page17_row_2_column_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page17_row-2-column-3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page17_row_3_column_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page17_row-3-column-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page17_row_3_column_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page17_row-3-column-2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page17_row_3_column_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page17_row-3-column-3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page18_row_1_column_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page18_row-1-column-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page18_row_1_column_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page18_row-1-column-2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page18_row_1_column_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page18_row-1-column-3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page18_row_2_column_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page18_row-2-column-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page18_row_2_column_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page18_row-2-column-2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page18_row_2_column_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page18_row-2-column-3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page18_row_3_column_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page18_row-3-column-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page18_row_3_column_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page18_row-3-column-2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page18_row_3_column_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page18_row-3-column-3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page19_row_1_column_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page19_row-1-column-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page19_row_1_column_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page19_row-1-column-2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page19_row_1_column_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page19_row-1-column-3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page19_row_2_column_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page19_row-2-column-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page19_row_2_column_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page19_row-2-column-2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page19_row_2_column_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page19_row-2-column-3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page19_row_3_column_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page19_row-3-column-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page19_row_3_column_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page19_row-3-column-2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page19_row_3_column_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page19_row-3-column-3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page20_row_1_column_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page20_row-1-column-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page20_row_1_column_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page20_row-1-column-2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page20_row_1_column_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page20_row-1-column-3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page20_row_2_column_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page20_row-2-column-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page20_row_2_column_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page20_row-2-column-2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page20_row_2_column_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page20_row-2-column-3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page20_row_3_column_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page20_row-3-column-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page20_row_3_column_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page20_row-3-column-2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page20_row_3_column_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page20_row-3-column-3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page21_row_1_column_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page21_row-1-column-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page21_row_1_column_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page21_row-1-column-2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page21_row_1_column_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page21_row-1-column-3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page21_row_2_column_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page21_row-2-column-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page21_row_2_column_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page21_row-2-column-2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page21_row_2_column_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page21_row-2-column-3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page21_row_3_column_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page21_row-3-column-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page21_row_3_column_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page21_row-3-column-2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page21_row_3_column_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page21_row-3-column-3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page22_row_1_column_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page22_row-1-column-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page22_row_1_column_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page22_row-1-column-2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page22_row_1_column_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page22_row-1-column-3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page22_row_2_column_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page22_row-2-column-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page22_row_2_column_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page22_row-2-column-2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page22_row_2_column_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page22_row-2-column-3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page22_row_3_column_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page22_row-3-column-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page22_row_3_column_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page22_row-3-column-2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page22_row_3_column_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page22_row-3-column-3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page23_row_1_column_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page23_row-1-column-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page23_row_1_column_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page23_row-1-column-2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page23_row_1_column_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page23_row-1-column-3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page23_row_2_column_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page23_row-2-column-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page23_row_2_column_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page23_row-2-column-2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page23_row_2_column_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page23_row-2-column-3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page23_row_3_column_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page23_row-3-column-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page23_row_3_column_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page23_row-3-column-2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page23_row_3_column_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page23_row-3-column-3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page24_row_1_column_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page24_row-1-column-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page24_row_1_column_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page24_row-1-column-2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page24_row_1_column_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page24_row-1-column-3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page24_row_2_column_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page24_row-2-column-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page24_row_2_column_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page24_row-2-column-2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page24_row_2_column_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page24_row-2-column-3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page24_row_3_column_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page24_row-3-column-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page24_row_3_column_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page24_row-3-column-2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page24_row_3_column_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page24_row-3-column-3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page25_row_1_column_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page25_row-1-column-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page25_row_1_column_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page25_row-1-column-2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page25_row_1_column_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page25_row-1-column-3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page25_row_2_column_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page25_row-2-column-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page25_row_2_column_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page25_row-2-column-2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page25_row_2_column_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page25_row-2-column-3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page25_row_3_column_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page25_row-3-column-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page25_row_3_column_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page25_row-3-column-2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page25_row_3_column_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page25_row-3-column-3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page26_row_1_column_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page26_row-1-column-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page26_row_1_column_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page26_row-1-column-2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page26_row_1_column_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page26_row-1-column-3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page26_row_2_column_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page26_row-2-column-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page26_row_2_column_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page26_row-2-column-2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page26_row_2_column_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page26_row-2-column-3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page26_row_3_column_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page26_row-3-column-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page26_row_3_column_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page26_row-3-column-2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page26_row_3_column_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page26_row-3-column-3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page27_row_1_column_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page27_row-1-column-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page27_row_1_column_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page27_row-1-column-2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page27_row_1_column_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page27_row-1-column-3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page27_row_2_column_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page27_row-2-column-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page27_row_2_column_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page27_row-2-column-2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page27_row_2_column_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page27_row-2-column-3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page27_row_3_column_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page27_row-3-column-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page27_row_3_column_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page27_row-3-column-2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page27_row_3_column_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page27_row-3-column-3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page28_row_1_column_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page28_row-1-column-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page28_row_1_column_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page28_row-1-column-2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page28_row_1_column_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page28_row-1-column-3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page28_row_2_column_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page28_row-2-column-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page28_row_2_column_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page28_row-2-column-2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page28_row_2_column_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page28_row-2-column-3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page28_row_3_column_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page28_row-3-column-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page28_row_3_column_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page28_row-3-column-2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page28_row_3_column_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page28_row-3-column-3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page29_row_1_column_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page29_row-1-column-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page29_row_1_column_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page29_row-1-column-2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page29_row_1_column_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page29_row-1-column-3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page29_row_2_column_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page29_row-2-column-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page29_row_2_column_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page29_row-2-column-2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page29_row_2_column_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page29_row-2-column-3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page29_row_3_column_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page29_row-3-column-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page29_row_3_column_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page29_row-3-column-2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page29_row_3_column_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page29_row-3-column-3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page30_row_1_column_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page30_row-1-column-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page30_row_1_column_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page30_row-1-column-2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page30_row_1_column_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page30_row-1-column-3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page30_row_2_column_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page30_row-2-column-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page30_row_2_column_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page30_row-2-column-2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page30_row_2_column_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page30_row-2-column-3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page30_row_3_column_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page30_row-3-column-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page30_row_3_column_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page30_row-3-column-2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page30_row_3_column_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page30_row-3-column-3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page31_row_1_column_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page31_row-1-column-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page31_row_1_column_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page31_row-1-column-2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page31_row_1_column_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page31_row-1-column-3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page31_row_2_column_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page31_row-2-column-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page31_row_2_column_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page31_row-2-column-2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page31_row_2_column_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page31_row-2-column-3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page31_row_3_column_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page31_row-3-column-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page31_row_3_column_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page31_row-3-column-2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page31_row_3_column_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page31_row-3-column-3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page32_row_1_column_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page32_row-1-column-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page32_row_1_column_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page32_row-1-column-2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page32_row_1_column_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page32_row-1-column-3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page32_row_2_column_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page32_row-2-column-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page32_row_2_column_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page32_row-2-column-2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page32_row_2_column_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page32_row-2-column-3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page32_row_3_column_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page32_row-3-column-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page32_row_3_column_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page32_row-3-column-2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page32_row_3_column_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page32_row-3-column-3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page33_row_1_column_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page33_row-1-column-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page33_row_1_column_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page33_row-1-column-2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page33_row_1_column_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page33_row-1-column-3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page33_row_2_column_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page33_row-2-column-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page33_row_2_column_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page33_row-2-column-2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page33_row_2_column_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page33_row-2-column-3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page33_row_3_column_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page33_row-3-column-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page33_row_3_column_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page33_row-3-column-2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page33_row_3_column_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page33_row-3-column-3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page34_row_1_column_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page34_row-1-column-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page34_row_1_column_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page34_row-1-column-2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page34_row_1_column_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page34_row-1-column-3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page34_row_2_column_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page34_row-2-column-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page34_row_2_column_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page34_row-2-column-2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page34_row_2_column_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page34_row-2-column-3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page34_row_3_column_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page34_row-3-column-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page34_row_3_column_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page34_row-3-column-2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page34_row_3_column_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page34_row-3-column-3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page35_row_1_column_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page35_row-1-column-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page35_row_1_column_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page35_row-1-column-2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page35_row_1_column_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page35_row-1-column-3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page35_row_2_column_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page35_row-2-column-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page35_row_2_column_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page35_row-2-column-2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page35_row_2_column_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page35_row-2-column-3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page35_row_3_column_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page35_row-3-column-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page35_row_3_column_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page35_row-3-column-2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page35_row_3_column_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page35_row-3-column-3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page36_row_1_column_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page36_row-1-column-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page36_row_1_column_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page36_row-1-column-2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page36_row_1_column_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page36_row-1-column-3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page36_row_2_column_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page36_row-2-column-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page36_row_2_column_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page36_row-2-column-2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page36_row_2_column_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page36_row-2-column-3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page36_row_3_column_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page36_row-3-column-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page36_row_3_column_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page36_row-3-column-2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page36_row_3_column_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page36_row-3-column-3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page37_row_1_column_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page37_row-1-column-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page37_row_1_column_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page37_row-1-column-2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page37_row_1_column_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page37_row-1-column-3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page37_row_2_column_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page37_row-2-column-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page37_row_2_column_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page37_row-2-column-2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page37_row_2_column_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page37_row-2-column-3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page37_row_3_column_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page37_row-3-column-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page37_row_3_column_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page37_row-3-column-2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page37_row_3_column_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page37_row-3-column-3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page38_row_1_column_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page38_row-1-column-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page38_row_1_column_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page38_row-1-column-2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page38_row_1_column_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page38_row-1-column-3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page38_row_2_column_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page38_row-2-column-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page38_row_2_column_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page38_row-2-column-2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page38_row_2_column_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page38_row-2-column-3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page38_row_3_column_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page38_row-3-column-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page38_row_3_column_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page38_row-3-column-2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page38_row_3_column_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page38_row-3-column-3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page39_row_1_column_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page39_row-1-column-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page39_row_1_column_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page39_row-1-column-2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page39_row_1_column_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page39_row-1-column-3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page39_row_2_column_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page39_row-2-column-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page39_row_2_column_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page39_row-2-column-2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page39_row_2_column_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page39_row-2-column-3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page39_row_3_column_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page39_row-3-column-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page39_row_3_column_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page39_row-3-column-2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page39_row_3_column_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page39_row-3-column-3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page3_row_1_column_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page3_row-1-column-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page3_row_1_column_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page3_row-1-column-2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page3_row_1_column_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page3_row-1-column-3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page3_row_2_column_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page3_row-2-column-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page3_row_2_column_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page3_row-2-column-2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page3_row_2_column_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page3_row-2-column-3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page3_row_3_column_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page3_row-3-column-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page3_row_3_column_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page3_row-3-column-2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page3_row_3_column_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page3_row-3-column-3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page40_row_1_column_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page40_row-1-column-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page40_row_1_column_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page40_row-1-column-2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page40_row_1_column_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page40_row-1-column-3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page40_row_2_column_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page40_row-2-column-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page40_row_2_column_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page40_row-2-column-2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page40_row_2_column_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page40_row-2-column-3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page40_row_3_column_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page40_row-3-column-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page40_row_3_column_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page40_row-3-column-2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page40_row_3_column_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page40_row-3-column-3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page41_row_1_column_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page41_row-1-column-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page41_row_1_column_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page41_row-1-column-2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page41_row_1_column_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page41_row-1-column-3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page41_row_2_column_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page41_row-2-column-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page41_row_2_column_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page41_row-2-column-2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page41_row_2_column_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page41_row-2-column-3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page41_row_3_column_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page41_row-3-column-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page41_row_3_column_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page41_row-3-column-2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page41_row_3_column_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page41_row-3-column-3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page42_row_1_column_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page42_row-1-column-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page42_row_1_column_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page42_row-1-column-2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page42_row_1_column_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page42_row-1-column-3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page42_row_2_column_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page42_row-2-column-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page42_row_2_column_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page42_row-2-column-2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page42_row_2_column_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page42_row-2-column-3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page42_row_3_column_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page42_row-3-column-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page42_row_3_column_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page42_row-3-column-2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page42_row_3_column_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page42_row-3-column-3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page4_row_1_column_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page4_row-1-column-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page4_row_1_column_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page4_row-1-column-2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page4_row_1_column_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page4_row-1-column-3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page4_row_2_column_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page4_row-2-column-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page4_row_2_column_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page4_row-2-column-2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page4_row_2_column_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page4_row-2-column-3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page4_row_3_column_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page4_row-3-column-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page4_row_3_column_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page4_row-3-column-2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page4_row_3_column_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page4_row-3-column-3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page5_row_1_column_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page5_row-1-column-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page5_row_1_column_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page5_row-1-column-2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page5_row_1_column_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page5_row-1-column-3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page5_row_2_column_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page5_row-2-column-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page5_row_2_column_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page5_row-2-column-2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page5_row_2_column_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page5_row-2-column-3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page5_row_3_column_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page5_row-3-column-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page5_row_3_column_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page5_row-3-column-2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page5_row_3_column_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page5_row-3-column-3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page6_row_1_column_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page6_row-1-column-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page6_row_1_column_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page6_row-1-column-2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page6_row_1_column_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page6_row-1-column-3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page6_row_2_column_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page6_row-2-column-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page6_row_2_column_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page6_row-2-column-2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page6_row_2_column_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page6_row-2-column-3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page6_row_3_column_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page6_row-3-column-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page6_row_3_column_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page6_row-3-column-2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page6_row_3_column_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page6_row-3-column-3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page7_row_1_column_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page7_row-1-column-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page7_row_1_column_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page7_row-1-column-2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page7_row_1_column_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page7_row-1-column-3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page7_row_2_column_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page7_row-2-column-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page7_row_2_column_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page7_row-2-column-2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page7_row_2_column_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page7_row-2-column-3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page7_row_3_column_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page7_row-3-column-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page7_row_3_column_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page7_row-3-column-2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page7_row_3_column_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page7_row-3-column-3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page8_row_1_column_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page8_row-1-column-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page8_row_1_column_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page8_row-1-column-2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page8_row_1_column_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page8_row-1-column-3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page8_row_2_column_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page8_row-2-column-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page8_row_2_column_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page8_row-2-column-2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page8_row_2_column_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page8_row-2-column-3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page8_row_3_column_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page8_row-3-column-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page8_row_3_column_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page8_row-3-column-2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page8_row_3_column_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page8_row-3-column-3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page9_row_1_column_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page9_row-1-column-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page9_row_1_column_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page9_row-1-column-2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page9_row_1_column_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page9_row-1-column-3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page9_row_2_column_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page9_row-2-column-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page9_row_2_column_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page9_row-2-column-2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page9_row_2_column_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page9_row-2-column-3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page9_row_3_column_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page9_row-3-column-1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page9_row_3_column_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page9_row-3-column-2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Page9_row_3_column_3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\page9_row-3-column-3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="_Empty" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>cards\_empty.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+</root>
